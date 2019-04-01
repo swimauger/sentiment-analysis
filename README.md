@@ -3,6 +3,7 @@
 
 | Team              |
 | ----------------- |
+| **Name**          |
 | Mark Auger        |
 | Jennifer Buchanan |
 | Jordan Burke      |
