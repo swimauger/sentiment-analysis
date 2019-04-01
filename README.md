@@ -1,5 +1,4 @@
-# Sentiment Analysis - ## CSCI487 Final Project
-**Team**
+# Sentiment Analysis - CSCI487 Final Project
 
 Mark Auger
 
