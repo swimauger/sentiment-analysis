@@ -1,9 +1,9 @@
 # Sentiment Analysis
 ## CSCI487 Final Project
 
-| Team              |
-| ----------------- |
-| **Name**          |
-| Mark Auger        |
-| Jennifer Buchanan |
-| Jordan Burke      |
+| Team                                |
+| :---------------------------------: |
+| **Name**          | **Email**       |
+| Mark Auger        | markauge@iu.edu |
+| Jennifer Buchanan |                 |
+| Jordan Burke      |                 |
