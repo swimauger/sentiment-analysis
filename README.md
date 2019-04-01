@@ -1,7 +1,7 @@
 # Sentiment Analysis
 ## CSCI487 Final Project
-___
 **Team**
+___
 Mark Auger
 
 Jennifer Buchanan
