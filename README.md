@@ -1,3 +1,3 @@
 # Sentiment Analysis - CSCI487 Final Project
 
-Mark Auger
+By Mark Auger
